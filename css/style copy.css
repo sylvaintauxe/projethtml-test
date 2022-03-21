@@ -1,0 +1,1820 @@
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content h1 {
+  font-size: 50px;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
+/*reset3*/
+
+* {
+  margin: 0;
+  background: #222;
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*Header*/
+
+.header {
+  background: #333;
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1 {
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.header nav h1 a {
+  color: white;
+}
+
+.header nav ul {
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: left;
+}
+.header nav ul li a {
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.headernav ul li a:hover {
+  background: #444;
+}
+.active {
+  background: #444;
+}
+
+/*vp*/
+
+.vp {
+  height: 700px;
+  background: url(../images/cafe1.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content {
+  max-width: 500px;
+  padding-top: 150px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+
+.vp-content p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.7em;
+}
+
+/*features*/
+
+.features {
+  overflow: auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.feature {
+  float: left;
+  width: 50%;
+}
